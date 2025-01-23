@@ -1,0 +1,13 @@
+[MM_CTX_ARRANGE_MMOUSE]
+mm_0=2 m
+
+[MM_CTX_ARRANGE_RMOUSE]
+mm_0=0 m
+
+[MM_CTX_MIDI_NOTE_CLK]
+mm_0=1 m
+mm_4=2 m
+
+[MM_CTX_TRACK]
+mm_0=9 m
+
